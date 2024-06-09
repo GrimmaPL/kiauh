@@ -12,5 +12,4 @@
 #
 # You are allowed to omit the 'https://github.com/' part of the repository URL
 # Down below are now a few examples of what is considered as valid:
-https://github.com/Klipper3d/klipper,master
 bigtreetech/klipper
